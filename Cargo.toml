@@ -1,5 +1,5 @@
 [package]
-name = "gtk"
+name = "rusti"
 version = "0.1.0"
 authors = ["computermouth"]
 
